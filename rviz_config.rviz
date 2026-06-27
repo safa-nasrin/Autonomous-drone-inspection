@@ -1,0 +1,26 @@
+Panels:
+  - Class: rviz_common/Displays
+    Name: Displays
+Visualization Manager:
+  Displays:
+    - Class: rviz_default_plugins/MarkerArray
+      Enabled: true
+      Marker Topic: /drone/markers
+      Name: Buildings
+    - Class: rviz_default_plugins/Path
+      Enabled: true
+      Topic: /drone/path
+      Name: Drone Path
+      Color: 255; 100; 0
+    - Class: rviz_default_plugins/Pose
+      Enabled: true
+      Topic: /drone/pose
+      Name: Drone Position
+  Global Options:
+    Fixed Frame: map
+  Views:
+    Current:
+      Class: rviz_default_plugins/TopDownOrtho
+      Scale: 4
+      X: 0
+      Y: 0
