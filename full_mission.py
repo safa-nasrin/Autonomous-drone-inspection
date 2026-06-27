@@ -127,6 +127,9 @@ async def run():
     print("✓ Airborne at 20m — above all buildings")
 
     print("\n[STEP 4] Starting Navigation Between Buildings...")
+    await asyncio.sleep(5)
+    print("  Uploading mission...")
+
     await drone.mission.upload_mission(make_mission(path[1:]))
     await asyncio.sleep(3)
     mission_plan = await drone.mission.download_mission()
