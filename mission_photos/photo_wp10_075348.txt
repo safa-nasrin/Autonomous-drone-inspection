@@ -1,5 +1,0 @@
-Waypoint: 10
-Latitude: 47.398049
-Longitude: 8.546189
-Altitude: 18.7m
-Status: CAPTURED

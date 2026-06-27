@@ -1,6 +1,0 @@
-Waypoint: 11
-Timestamp: 2026-06-26 17:04:16.833782
-Latitude: 47.397918
-Longitude: 8.546483
-Altitude: 47.2m
-Status: CAPTURED

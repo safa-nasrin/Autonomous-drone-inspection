@@ -1,7 +1,0 @@
-=== DRONE PHOTO METADATA ===
-Waypoint:    8
-Timestamp:   2026-06-26 16:53:07.789330
-Latitude:    47.398018
-Longitude:   8.546389
-Altitude:    28.4m
-Status:      CAPTURED

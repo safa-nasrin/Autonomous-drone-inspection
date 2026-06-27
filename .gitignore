@@ -1,0 +1,4 @@
+mission_photos/
+__pycache__/
+*.pyc
+*.log
