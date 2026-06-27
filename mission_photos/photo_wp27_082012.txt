@@ -1,0 +1,5 @@
+Waypoint: 27
+Latitude: 47.397637
+Longitude: 8.546155
+Altitude: 21.1m
+Status: CAPTURED

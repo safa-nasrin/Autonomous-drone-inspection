@@ -1,0 +1,5 @@
+Waypoint: 25
+Latitude: 47.397665
+Longitude: 8.546091
+Altitude: 24.9m
+Status: CAPTURED
